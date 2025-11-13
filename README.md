@@ -4,9 +4,9 @@ Admin operation focused full-stack library management system.
 
 Tech Stack used
 
-Frontend - React.js, Axios, CSS3, HTML5
-Backend - Node.js, Express.js, pg, cors
-Database - PostgreSQL
+Frontend - React.js, Axios, CSS3, HTML5 <br>
+Backend - Node.js, Express.js, pg, cors <br>
+Database - PostgreSQL <br>
 
 
 Admin Dashboard
