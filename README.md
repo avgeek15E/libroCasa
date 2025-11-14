@@ -19,4 +19,4 @@ Add and display library members
 ![Screenshot](assets/members.png)
 
 Solve book issues
-![Screenshot](assets/book issues.png)
+![Screenshot](assets/book_issues.png)
